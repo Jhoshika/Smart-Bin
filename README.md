@@ -68,7 +68,7 @@ The web interface allows real-time monitoring of bin levels and automated alerts
 <div align="center">
 <br>
 <br>
-
+https://github.com/user-attachments/assets/aed902d1-76da-4a12-ad51-8284fa881034
 </div>
 
 </td>
